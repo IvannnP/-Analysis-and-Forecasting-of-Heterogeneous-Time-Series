@@ -1,2 +1,2 @@
 # -Analysis-and-Forecasting-of-Heterogeneous-Time-Series
-Course interim assessment
+The course's interim assessment
