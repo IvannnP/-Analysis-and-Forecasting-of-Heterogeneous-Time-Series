@@ -2,11 +2,11 @@
 
 ## The purpose of the discipline: 
 
-Understanding of Fractal and Multifractal Time Series
+* Understanding of Fractal and Multifractal Time Series
 
-Be able to apply recurrent quantitative analysis of time series
+- Be able to apply recurrent quantitative analysis of time series
 
-Understand and be able to identify low-dimensional chaos on commodity and financial markets
++ Understand and be able to identify low-dimensional chaos on commodity and financial markets
 
 Be able to conduct a multifractal analysis of stationary and non-stationary heterogeneous time series
 
