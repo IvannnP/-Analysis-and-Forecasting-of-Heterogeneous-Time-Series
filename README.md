@@ -1,16 +1,8 @@
 # Analysis-and-Forecasting-of-Heterogeneous-Time-Series
 
-## The purpose of the discipline: 
+## Annotation: 
 
-* Understanding of Fractal and Multifractal Time Series
-
-* Be able to apply recurrent quantitative analysis of time series
-
-* Understand and be able to identify low-dimensional chaos on commodity and financial markets
-
-* Be able to conduct a multifractal analysis of stationary and non-stationary heterogeneous time series
-
-* Understand and be able to analyze statistics of catastrophic events in heterogeneous time series
+The vast majority of natural and artificial systems are open, dissipative, and nonequilibrium. Systems endowed with such properties belong to complex systems. A feature of such systems is their ability to generate non-uniform time series, i.e., time series characterized by the presence of abrupt and/or extraordinary events as well as scale-invariant (fractal) structure. This course is devoted to the study of methods and algorithms for the analysis and prediction of stationary and nonstationary heterogeneous time series
 
 ## Content of the discipline: 
 
