@@ -1,10 +1,10 @@
 # Analysis-and-Forecasting-of-Heterogeneous-Time-Series
 
-## Annotation: 
+## Annotation
 
 The vast majority of natural and artificial systems are open, dissipative, and nonequilibrium. Systems endowed with such properties belong to complex systems. A feature of such systems is their ability to generate non-uniform time series, i.e., time series characterized by the presence of abrupt and/or extraordinary events as well as scale-invariant (fractal) structure. This course is devoted to the study of methods and algorithms for the analysis and prediction of stationary and nonstationary heterogeneous time series
 
-## Content of the discipline: 
+## Content of the discipline
 
 * Recurrent Quantitative Analysis (RQA) of Time Series
 
@@ -25,3 +25,5 @@ The vast majority of natural and artificial systems are open, dissipative, and n
 * Fractals and their Properties
 
 * Stationarity
+
+https://www.hse.ru/edu/courses/470888325
